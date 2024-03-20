@@ -15,10 +15,10 @@ body {
 
 /*  */
 .page{
-  background: linear-gradient(180deg, #0575E6 0%, #00237B 100%);
+  background: url(../image/bg.png),linear-gradient(180deg, #0575E6 0%, #00237B 100%);
   
-  background: url(../image/bg.png) #00237B;
-  
+  background-position: center  ;
+   
   background-position:  center 20px top   ;
 
   border-radius: 0px 101px 0px 0px;
