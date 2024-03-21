@@ -1,15 +1,14 @@
 @font-face {
-  font-family: "Blabeloo  MagdySoliman";
-  src: url("../font/Kelma_\ MagdySoliman\ Regular.ttf")}
+  font-family: "Blabeloo MagdySoliman";
+  src: url("../font/Blabeloo-font-v.1.0.ttf")}
 @font-face {
   font-family: "Air Strip Arabic";
   src: url("../font/Air\ Strip\ Arabic.ttf"); }
 
 body {
-  font-family:"Air Strip Arabic";
+  font-family: Air Strip Arabic;
   font-weight: 400;
-  font-style: normal;
-  background: #fff;
+
 }
 
 
@@ -119,4 +118,9 @@ border:none !important;
   
 }
 /* Start   */
+
+.input-customise{
+/*   background-image:url(../image/add\ photo\(1\).png) ;
+ */
+}
 /* End  */
